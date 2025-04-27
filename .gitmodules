@@ -1,8 +1,8 @@
 [submodule "authors/torres"]
-	path = authors/torres
+	path = authors/torres-cross-chain-arbitrage
 	url = https://tivas-g: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@github.com/tivas-g/Torres_Shared_Sequencing_Arbitrage.git
 [submodule "authors/fei-wu-cex-dex-arbitrage"]
-	path = authors/fei-wu-cex-dex-arbitrage
+	path = authors/wu-cex-dex-arbitrage
 	url = https://tivas-g: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@github.com/tivas-g/Wu_Comparing_CEX_DEX_Execution.git
 [submodule "authors/yuminaga-dex-execution-welfare"]
 	path = authors/yuminaga-dex-execution-welfare
