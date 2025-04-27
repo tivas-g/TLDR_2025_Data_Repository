@@ -7,3 +7,6 @@
 [submodule "authors/yuminaga-dex-execution-welfare"]
 	path = authors/yuminaga-dex-execution-welfare
 	url = https://tivas-g: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@github.com/tivas-g/Yuminaga_Dex_Execution_Welfare.git
+[submodule "authors/lotric-simulating-intents"]
+	path = authors/lotric-simulating-intents
+	url = https://tivas-g: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@github.com/tivas-g/lotric_simulating_intents.git
