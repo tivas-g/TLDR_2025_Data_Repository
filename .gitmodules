@@ -10,3 +10,7 @@
 [submodule "authors/wu-cex-dex-arbitrage"]
 	path = authors/wu-cex-dex-arbitrage
 	url = https://github.com/tivas-g/Wu_Comparing_CEX_DEX_Execution.git
+
+[submodule "authors/lotric-cow-data"]
+	path = authors/lotric-cow-data
+	url = git@github.com:halo3mic/tldr-cow-data.git
